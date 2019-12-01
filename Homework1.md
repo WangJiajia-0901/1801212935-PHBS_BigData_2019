@@ -23,6 +23,7 @@ To get the preliminary feelings of how big the data will be, I crawled the numbe
 ![onlineusers](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/onlineusage.png)
 ![onlineusage](https://github.com/WangJiajia-0901/Big-Data-Analysis/blob/master/onlineusers.png)
 From the figure we can conclude that online viewership varies widely from time to time, which means that release timing is quite an issue. <br>
+(The code is uploaded already.)<br>
 ### 2.3 3V properties
 **The three V properties are quite obvious.** <br>
 **Firstly, it is the volume.** According to the 2018 financial report of Bilibili, the average monthly active user reached a new high of 92.8 million in the fourth quarter of 2018, with 79.5 million mobile monthly live users, up 29% and 37% year-on-year, respectively. The average monthly number of paying subscribers rose 298 percent to 4.4 million in the past 12 months. Each user's movie-viewing behavior forms part of the data being analyzed. So the data is obviously massive.<br>
